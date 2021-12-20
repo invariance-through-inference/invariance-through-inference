@@ -4,7 +4,7 @@ Source code will be available shortly.
 
 **Invariance Through Inference**
 
-[Takuma Yoneda\*](https://takuma.yoneda.xyz/), Ge Yang\*, Matthew Walter, Bradly Stadie
+[Takuma Yoneda\*](https://takuma.yoneda.xyz/), [Ge Yang\*](https://www.episodeyang.com/), [Matthew Walter](https://home.ttic.edu/~mwalter/), [Bradly Stadie](https://bstadie.github.io/)
 
 [[Paper]](https://arxiv.org/abs/2112.08526) [[Website]](https://invariance-through-inference.github.io/)
 
